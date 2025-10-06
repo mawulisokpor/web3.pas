@@ -236,3 +236,5 @@ Distributed under the [GPL-3.0](https://github.com/svanas/web3.pas/blob/master/L
 Commercial support and training is available from [Stefan](https://svanas.github.io/).
 
 <!-- Auto-update: 2025-10-06T12:13:34.746245 -->
+
+<!-- Auto-update: 2025-10-06T13:48:00.234860 -->
